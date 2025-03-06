@@ -52,26 +52,18 @@ Subscribe to the newsletter for regular updates.
 
 **##Installation & Setup**
 
-**Clone the repository:**
+Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/CookBook.git
 cd CookBook
 
-**Install dependencies:
-**
-bash
-Copy
-Edit
+Install dependencies:
+
 npm install
 
-**Start the application:
-**
-bash
-Copy
-Edit
+Start the application:
+
 npm start
 
 Open http://localhost:3000 in your browser.
