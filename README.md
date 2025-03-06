@@ -1,10 +1,10 @@
 ## CookBook-Your-Virtual-Kitchen-Assistant 
-##Overview
+**##Overview**
 
 CookBook is a modern recipe application designed for home cooks, professional chefs, and food enthusiasts. It provides an extensive collection of recipes from various cuisines, allowing users to browse, search, and filter meals based on ingredients, categories, and popularity. Integrated with TheMealsDB API, it ensures a constantly updated recipe database. With a clean and interactive UI, CookBook makes discovering and preparing meals effortless.
 
 
-##Features
+**##Features**
 
 ✅ Extensive Recipe Collection – Access diverse recipes from different cuisines via TheMealsDB API.
 
@@ -19,7 +19,7 @@ CookBook is a modern recipe application designed for home cooks, professional ch
 ✅ Visual Recipe Browsing – Navigate through image-based recipe cards.
 
 
-##Tech Stack
+**##Tech Stack**
 
 Frontend: React.js (for interactive UI)
 
@@ -30,12 +30,12 @@ Backend: Not required currently (Future enhancements may include Node.js for use
 Database: Not needed (Data is fetched dynamically from the API)
 
 
-System Architecture
+**System Architecture**
 
 CookBook follows a frontend-driven architecture that dynamically interacts with TheMealsDB API to display recipes in real-time.
 
 
-##Project Flow
+**##Project Flow**
 
 Users visit the CookBook application.
 
@@ -50,9 +50,9 @@ Subscribe to the newsletter for regular updates.
 (Future Enhancements) Implement features like user authentication, personalized recommendations, and meal planning.
 
 
-##Installation & Setup
+**##Installation & Setup**
 
-Clone the repository:
+**Clone the repository:**
 
 bash
 Copy
@@ -60,15 +60,15 @@ Edit
 git clone https://github.com/yourusername/CookBook.git
 cd CookBook
 
-Install dependencies:
-
+**Install dependencies:
+**
 bash
 Copy
 Edit
 npm install
 
-Start the application:
-
+**Start the application:
+**
 bash
 Copy
 Edit
@@ -76,12 +76,12 @@ npm start
 
 Open http://localhost:3000 in your browser.
 
-##Contributing
+**##Contributing**
 
 We welcome contributions! Feel free to fork the repo and submit a pull request.
 
 
-##License
+**##License**
 
 This project is open-source and available under the MIT License.
 
